@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm [Raman Sapunou](https://github.com/sapan322).
 
-<!--
-**sapan322/sapan322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Welcome to my GitHub profile! Here, I share my knowledge, projects, and experience.
+### ⭐ I’m currently learning Cybersecurity concepts, Python, Linux, Virtualization, Networking, and Ethical Hacking.
+### 😎 You can find my cybersecurity portfolio [here](https://github.com/sapan322/Cybersecurity-Portfolio).
+### ⭐ My goals for 2025: 
+  - Build a corporate-like virtual network.
+  - Improve my knowledge and practical skills.
+  - Expand my portfolio.
+  - ‼️ Get a job in the cybersecurity field.
 
-Here are some ideas to get you started:
+### 📬 You can contact me here: 🔗 [LinkedIn](https://www.linkedin.com/in/raman-sapunou-753718340/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
