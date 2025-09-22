@@ -1,4 +1,4 @@
-## Hi, I'm [Raman](https://github.com/sapan322).
+## Hi!
 
 ### 👋 Welcome to my GitHub profile! Here, I share my knowledge, projects, and experience.
 ### ⭐ I’m currently learning Cybersecurity concepts, Python, Linux, Virtualization, Networking, and Ethical Hacking.
